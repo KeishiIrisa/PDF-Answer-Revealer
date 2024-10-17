@@ -14,4 +14,4 @@ Reveals the answers hidden in PDF lecture materials.
    ```sh
    python revealer.py <input_pdf_name>
    ```
-5. The revealed PDF will be generated in the output directory
+5. The revealed PDF will be generated in the `output` directory
