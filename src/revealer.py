@@ -19,6 +19,6 @@ def main(input_pdf_name: str):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python break.py <input_pdf_name>")
+        print("Usage: python revealer.py <input_pdf_name>")
     else:
         main(sys.argv[1])
